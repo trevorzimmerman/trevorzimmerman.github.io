@@ -3,6 +3,10 @@ layout: home
 title: "Welcome"
 ---
 
-Add text here.
+# Welcome
 
-[View my test page](/test)
+Explore my projects by category:
+
+- [Work Projects](/work)
+- [Personal Projects](/personal)
+- [University Projects](/university)
