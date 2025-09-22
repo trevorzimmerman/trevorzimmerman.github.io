@@ -3,8 +3,6 @@ layout: home
 title: "Welcome"
 ---
 
-# Welcome
-
 Explore my projects by category:
 
 - [Work Projects](/work)
