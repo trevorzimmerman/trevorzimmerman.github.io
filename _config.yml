@@ -5,8 +5,8 @@ description: >
   and software development.
 
 header_pages:
-  - work.md
-  - university.md
-  - personal.md
+  - pages/work/index.md
+  - pages/university/index.md
+  - pages/personal/index.md
 
 author: ""
