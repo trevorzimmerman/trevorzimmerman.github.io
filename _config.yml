@@ -1,10 +1,12 @@
 theme: minima
 title: Trevor Zimmerman
-Description: >
+description: >
   Robotics Engineer portfolio showcasing automation projects, mechanical design, 
   and software development.
 
 header_pages:
-  - test.md
+  - work.md
+  - university.md
+  - personal.md
 
 author: ""
