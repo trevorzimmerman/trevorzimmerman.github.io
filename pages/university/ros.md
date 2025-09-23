@@ -7,7 +7,7 @@ permalink: /university/ros-projects
 ## MTRE 6300 – Robot Simulation Communication and ROS
 
 Video compilation of assignments demonstrating basic ROS concepts, including:  
-- TurtleBot simulation and navigation in Gazebo  
+- Turtlesim simulation  
 - Husarion ROSbot navigation, wall-following, and obstacle handling  
 - Custom two-wheeled robot motion using Python scripts  
 - FRANKA Panda arm trajectory planning and execution with MoveIt!
