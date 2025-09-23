@@ -33,15 +33,15 @@ This project implements a deep learning algorithm in MATLAB to classify diabetic
 3. Run the main script:  
    ```matlab
    HW4_Zimmerman
-4. When prompted, enter Y to retrain the CNNs or N to skip retraining.
+4. When prompted, enter Y to retrain the CNNs or N to use saved results.
 
 > Note: The **Deep Learning Toolbox Model for Inception-v3 Network** add-on must be installed if retraining is selected.
 
 ### Output
 
 - If you choose **N**:  
-  - `/hw4/HW4_Report_Zimmerman.pdf`  
+  - `hw4/HW4_Report_Zimmerman.pdf`  
 
 - If you choose **Y**:  
-  - `/hw4/HW4_Report_Zimmerman.pdf`  
-  - `/hw4/Data_From_HW4_Zimmerman.xlsx`  
+  - `hw4/HW4_Report_Zimmerman.pdf`  
+  - `hw4/Data_From_HW4_Zimmerman.xlsx`  
