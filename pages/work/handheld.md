@@ -18,14 +18,22 @@ Short description of the device, its components, and how it integrates with the 
 
 Include a main image of the handheld device:
 
-![Device Overview](/assets/projects/handheld/device-overview.jpg)
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/412ms-ErHYA?rel=0" 
+title="YouTube video player" frameborder="0" allowfullscreen>
+</iframe>
 
 ---
 
-## Hardware and Electrical System
+## Proof of Concept
 
 List components, e.g., microcontroller, sensors, buttons.  
 Describe your contributions (assembly, wiring, 3D-printed shell, electrical schematic).
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/gdpZgFyb50k?rel=0" 
+title="YouTube video player" frameborder="0" allowfullscreen>
+</iframe>
 
 ---
 
