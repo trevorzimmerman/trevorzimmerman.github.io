@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "ROS and Robotics Projects"
-permalink: /work/ros-projects
+permalink: /university/ros-projects
 ---
 
 # ROS and Robotics Projects
