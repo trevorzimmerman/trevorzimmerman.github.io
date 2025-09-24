@@ -34,8 +34,6 @@ The full project, including MATLAB scripts and supporting files, is available on
 
 [→ CS7267-Diabetic-Retinopathy Repository](https://github.com/trevorzimmerman/CS7267-Diabetic-Retinopathy)
 
-For setup instructions, see the [README.md](https://github.com/trevorzimmerman/CS7267-Diabetic-Retinopathy/blob/main/README.md).
-
 ---
 
 ## Navigation
