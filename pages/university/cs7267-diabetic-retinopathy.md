@@ -17,11 +17,7 @@ This project implements a deep learning algorithm in MATLAB to classify diabetic
 
 Click below to view the final report:  
 
-<a href="/assets/projects/cs7267-retinopathy/HW4_Report_Zimmerman_.pdf">
-  <img src="/assets/images/hw4-report-thumbnail.png" 
-       alt="HW4 Report Thumbnail" 
-       style="max-width: 500px; border: 1px solid #ccc;"/>
-</a>
+[View Report (PDF)](/assets/projects/cs7267-retinopathy/HW4_Report_Zimmerman.pdf)
 
 [View Report (PDF)](/assets/projects/cs7267-retinopathy/HW4_Report_Zimmerman.pdf)
 
