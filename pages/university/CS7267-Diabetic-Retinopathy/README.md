@@ -21,8 +21,7 @@ This project implements a deep learning algorithm in MATLAB to classify diabetic
 
 ## Files Included
 
-- `HW4_Zimmerman.m` – main MATLAB script for training and testing  
-- `HW4_Report_Zimmerman.pdf` – final report summarizing methods and results  
+- `HW4_Zimmerman.m` – main MATLAB script for training and testing 
 - `scripts/` – supporting MATLAB functions (confusion matrix, accuracy plots, PDF merge, etc.)  
 - `Cover.pdf`, `pg2.pdf`, `data.pdf`, and `HW4_Zimmerman_Report_WS.mat` – required input files for the report to generate correctly  
 
