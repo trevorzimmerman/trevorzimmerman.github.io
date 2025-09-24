@@ -33,6 +33,7 @@ This project implements a deep learning algorithm in MATLAB to classify diabetic
 3. Run the main script:  
    ```matlab
    HW4_Zimmerman
+   ```
 4. When prompted, enter **Y** to retrain the CNNs or **N** to use saved results.
 
 > Note: The **Deep Learning Toolbox Model for Inception-v3 Network** add-on must be installed if retraining is selected.
