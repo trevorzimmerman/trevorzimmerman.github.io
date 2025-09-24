@@ -21,27 +21,29 @@ This project implements a deep learning algorithm in MATLAB to classify diabetic
 
 ## Files Included
 
-- `HW4_Zimmerman.m` – main MATLAB script for training and testing 
-- `scripts/` – supporting MATLAB functions (confusion matrix, accuracy plots, PDF merge, etc.)  
-- `Cover.pdf`, `pg2.pdf`, `data.pdf`, and `HW4_Zimmerman_Report_WS.mat` – required input files for the report to generate correctly  
+- `main.m` – entry point MATLAB script for training, testing, and report generation  
+- `src/scripts/` – supporting MATLAB functions (confusion matrix, accuracy plots, PDF merge, etc.)  
+- `src/pdf/` – PDF components used to assemble the final report  
+- `src/workspace/default_WS.mat` – default workspace used when retraining is skipped  
+- `Final_Report.pdf` – reference copy of the project report (kept outside `src/` so it is not overwritten by the script)  
 
 ## How to Run
 
 1. Open MATLAB.  
-2. Navigate to the `hw4/` folder.  
+2. Navigate to the repository folder.  
 3. Run the main script:  
    ```matlab
-   HW4_Zimmerman
+   main
    ```
-4. When prompted, enter **Y** to retrain the CNNs or **N** to use saved results.
+4. When prompted, enter **Y** to retrain the CNNs or **N** to use saved results.  
 
-> Note: The **Deep Learning Toolbox Model for Inception-v3 Network** add-on must be installed if retraining is selected.
+> The Deep Learning Toolbox Model for Inception-v3 Network add-on must be installed if retraining is selected.  
 
 ### Output
 
 - If you choose **N**:  
-  - `hw4/HW4_Report_Zimmerman.pdf`  
+  - The report is generated as `Final_Report.pdf` in the working folder.  
 
 - If you choose **Y**:  
-  - `hw4/HW4_Report_Zimmerman.pdf`  
-  - `hw4/Data_From_HW4_Zimmerman.xlsx`
+  - `Final_Report.pdf` is generated  
+  - `PredictionResults.xlsx` is generated with the updated probability matrix
