@@ -22,7 +22,8 @@ For viewing the final report, please see the project page: [CS 7267 – Diabetic
 2. Navigate to the `src/` folder.  
 3. Run the main script:  
    ```matlab
-   main```
+   main
+   ```
 4. When prompted, enter **Y** to retrain the CNNs or **N** to use saved results. 
 
 ### Output
