@@ -29,9 +29,9 @@ Click below to view the final report:
 
 The full project, including MATLAB scripts and supporting files, is available on GitHub:  
 
-[→ CS7267-Diabetic-Retinopathy Repository](https://github.com/username/CS7267-Diabetic-Retinopathy)
+[→ CS7267-Diabetic-Retinopathy Repository](https://github.com/trevorzimmerman/CS7267-Diabetic-Retinopathy)
 
-For setup instructions, see the [README.md](https://github.com/username/CS7267-Diabetic-Retinopathy/blob/main/README.md).
+For setup instructions, see the [README.md](https://github.com/trevorzimmerman/CS7267-Diabetic-Retinopathy/blob/main/README.md).
 
 ---
 
