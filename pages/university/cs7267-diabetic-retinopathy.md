@@ -11,7 +11,15 @@ This project implements a deep learning algorithm in MATLAB to classify diabetic
 - Classified diabetic retinopathy images into 5 severity classes using the IDRiD dataset (516 images).  
 - Retrained InceptionV3 multiple times and combined predictions across runs.  
 - Achieved over **90% accuracy** on the test set.  
-- Results included confusion matrices, probability tables, and accuracy graphs.  
+- Results include confusion matrices, probability tables, and accuracy graphs.
+
+## Methodology
+
+- The CNN is retrained 11 times: once on all classes and 10 times on combinations of 2 classes.  
+- Predicted probabilities from each retraining are summed to produce a final probability matrix for classification.  
+- Each sample is assigned the class with the highest total probability.  
+- Misclassifications usually occur in smaller classes; the correct class is often the second-highest probability.  
+- Output includes a detailed Excel file (`PredictionResults.xlsx`) when retraining is performed.
 
 ## Report
 
