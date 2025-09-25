@@ -6,7 +6,7 @@ This Python project detects coins from a camera feed and calculates the total am
 
 1. Clone the repo:
     ```
-    git clone https://github.com/trevorzimmerman/coin-detection.git
+    git clone https://github.com/trevorzimmerman/usd-coin-counter.git
     cd coin-detection
     ```
 2. Create a virtual environment and activate it:
