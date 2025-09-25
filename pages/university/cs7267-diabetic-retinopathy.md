@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Diabetic Retinopathy Image Classification<br>(CS 7267, MATLAB)"
+title: "Diabetic Retinopathy Image Classification"
 permalink: /university/cs7267-diabetic-retinopathy
 ---
+# Machine Learning - MATLAB
 
 This project implements a deep learning algorithm in MATLAB to classify diabetic retinopathy images using **transfer learning** on the InceptionV3 convolutional neural network (CNN).
 
