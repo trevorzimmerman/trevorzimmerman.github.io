@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "CS 7367 – Machine Vision: USD Coin Counter"
+title: "USD Coin Counter – Machine Vision (CS 7367, Python/Roboflow)"
 permalink: /university/cs7367-machine-vision
 ---
 
