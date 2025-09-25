@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "USD Coin Counter – Machine Vision<br>(CS 7367, Python/Roboflow)"
+title: "USD Coin Counter"
 permalink: /university/cs7367-machine-vision
 ---
+# Machine Vision - Python/Roboflow
 
 This project implements a real-time machine vision system to detect and count U.S. coins using an Android smartphone camera and a custom Roboflow-trained model.  
 
