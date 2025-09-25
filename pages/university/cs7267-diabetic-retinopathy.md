@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "CS 7267 – Diabetic Retinopathy Image Classification (MATLAB)"
+title: "Diabetic Retinopathy Image Classification (CS 7267, MATLAB)"
 permalink: /university/cs7267-diabetic-retinopathy
 ---
 
