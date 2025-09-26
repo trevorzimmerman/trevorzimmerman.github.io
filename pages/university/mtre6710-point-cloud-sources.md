@@ -1,12 +1,10 @@
 ---
 layout: page
-title: "LiDAR Data Sources"
+title: "DBSCAN NYC Sources"
 permalink: /university/mtre6710-point-cloud-sources
 ---
 
-# LiDAR Data Sources for DBSCAN NYC Project
-
-The point cloud datasets used in this project were obtained from the U.S. Geological Survey (USGS) and converted from `.laz` to `.xyz` using CloudCompare. Each source corresponds to one of the six `.xyz` files used in the Python script.
+The point cloud datasets used in this project were obtained from the U.S. Geological Survey (USGS) and provided as `.laz` files. Six adjacent LiDAR tiles covering Lower Manhattan were converted to `.xyz` using CloudCompare and then merged in the preprocessing step. Each source corresponds to one of the six `.xyz` files used in the Python script.
 
 ---
 
