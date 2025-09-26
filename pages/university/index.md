@@ -7,8 +7,9 @@ permalink: /university
 Here are the key projects and coursework from my academic career, showcasing my skills and learning in robotics and automation engineering.
 
 - [ROS Projects](/university/ros-projects)
-- [Diabetic Retinopathy Image Classification (CS 7267, MATLAB)](/university/cs7267-diabetic-retinopathy)
-- [USD Coin Counter – Machine Vision (CS 7367, Python/Roboflow)](/university/cs7367-machine-vision)
+- [Diabetic Retinopathy Image Classification: Machine Learning - MATLAB](/university/cs7267-diabetic-retinopathy)
+- [USD Coin Counter: Machine Vision - Python/Roboflow](/university/cs7367-machine-vision)
+- [GTN2831 Factory Simulation: Digital Manufacturing - Siemens Process Simulate](/university/cs7367-machine-vision)
    
 ---
 
