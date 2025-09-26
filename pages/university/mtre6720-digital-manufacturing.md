@@ -5,7 +5,7 @@ permalink: /university/mtre6720-digital-manufacturing
 ---
 # Digital Manufacturing - Siemens Process Simulate
 
-This project used Siemens Tecnomatix Process Simulate to create a simulation of the GTN2831 work project.<br>
+This project used Siemens Tecnomatix Process Simulate to create a simulation of the GTN2831 work project.<br><br>
 I quickly learned to convert SolidWorks assemblies to Solid Edge assemblies and then into a Process Simulate study, integrating pick-and-place operations, machine coordination, and human interactions in a realistic factory setting.
 
 ## Final Project Video
