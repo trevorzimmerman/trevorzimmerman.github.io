@@ -21,8 +21,10 @@ The video shows the LIDAR point clouds in their original form in CloudCompare, t
 
 ## Python Script
 
-<iframe src="/assets/projects/mtre6710-3d-pcd/dbscan.pdf" width="100%" height="500px">
-    Your browser does not support PDFs. <a href="/assets/projects/mtre6710-3d-pcd/dbscan.pdf">View PDF</a>.
+<iframe src="/assets/projects/mtre6710-3d-pcd/dbscan.pdf#view=FitH&toolbar=1&navpanes=0" 
+        width="100%" height="600px">
+    Your browser does not support PDFs. 
+    <a href="/assets/projects/mtre6710-3d-pcd/dbscan.pdf">View PDF</a>.
 </iframe>
 
 ## Additional Information
