@@ -17,7 +17,11 @@ This project applies the DBSCAN (Density-Based Spatial Clustering of Application
 
 The video shows the LIDAR point clouds in their original form in CloudCompare, then in Open3D before and after DBSCAN clustering.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q8Vmc37t8z4?rel=0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="600" 
+        src="https://www.youtube.com/embed/q8Vmc37t8z4?rel=0" 
+        title="YouTube video player" 
+        frameborder="0" allowfullscreen>
+</iframe>
 
 ## Python Script
 
