@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "ROS and Robotics Projects"
+title: "ROS Projects"
 permalink: /university/ros-projects
 ---
 
