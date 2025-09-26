@@ -11,11 +11,11 @@ permalink: /university/mtre6710-point-cloud-data
 
 ## Project Summary
 
-This project applies the DBSCAN (Density-Based Spatial Clustering of Applications with Noise) algorithm to 3D lidar data of Lower Manhattan, New York City using Python and Open3D.
+This project applies the DBSCAN (Density-Based Spatial Clustering of Applications with Noise) algorithm to 3D LiDAR data of Lower Manhattan, New York City. The workflow used CloudCompare, Python, and Open3D for preprocessing, clustering, and visualization.
 
 ## Demonstration Video
 
-The video shows the LIDAR point clouds in their original form in CloudCompare, then in Open3D before and after DBSCAN clustering.
+The video shows the LiDAR point clouds in their original form in CloudCompare, then in Open3D before and after DBSCAN clustering.
 
 <iframe width="100%" height="600" 
         src="https://www.youtube.com/embed/q8Vmc37t8z4?rel=0" 
@@ -33,10 +33,10 @@ The video shows the LIDAR point clouds in their original form in CloudCompare, t
 
 ## Additional Information
 
-Sources for the original lidar maps can be found on the [Point Cloud Sources](/university/mtre6710-point-cloud-sources) page.
+Sources for the original LiDAR datasets can be found on the [Point Cloud Sources](/university/mtre6710-point-cloud-sources) page.
 
 ---
 
 ## Navigation
 
-[← Back to University Projects](/university) | [Point Cloud Sources](/university/mtre6710-point-cloud-sources)
+[← Back to University Projects](/university)
