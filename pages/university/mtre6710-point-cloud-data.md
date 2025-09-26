@@ -25,6 +25,7 @@ The video shows the LIDAR point clouds in their original form in CloudCompare, t
 <summary>DBSCAN.py (combine and cluster point clouds)</summary>
 
 <div style="max-height: 400px; overflow: auto; border: 1px solid #ccc; padding: 10px;">
+<pre><code class="language-python">
 
 ```python
 # -----------------------------------------------------------------------------
@@ -104,6 +105,7 @@ o3d.io.write_point_cloud(".\\results\\DBSCAN.pcd", pcd)
 o3d.visualization.draw_geometries([pcd])
 ```
 
+</code></pre>
 </div>
 </details>
 
