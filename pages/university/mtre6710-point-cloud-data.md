@@ -7,23 +7,24 @@ permalink: /university/mtre6710-point-cloud-data
 
 | Before DBSCAN | After DBSCAN |
 |---------------|-------------|
-| ![Before](assets/projects/mtre6710-3d-pcd/before-dbscan.PNG) | ![After](assets/projects/mtre6710-3d-pcd/after-dbscan.PNG) |
+| ![Before](/assets/projects/mtre6710-3d-pcd/before-dbscan.PNG) | ![After](/assets/projects/mtre6710-3d-pcd/after-dbscan.PNG) |
 
 ## Project Summary
 
-This project applies the DBSCAN (Density-Based Spatial Clustering of Applications with Noise) algorithm to 3D lidar data of Lower Manhattan, New York City.  
-Six lidar maps were converted from `.laz` to `.xyz` using CloudCompare, merged, cropped, and clustered to reveal dense regions in the point cloud. The result highlights how DBSCAN can segment spatial structures in large urban datasets.
+This project applies the DBSCAN (Density-Based Spatial Clustering of Applications with Noise) algorithm to 3D lidar data of Lower Manhattan, New York City using Python and Open3D.
 
 ## Demonstration Video
 
-The video below shows the final DBSCAN clustering results and the combined point cloud visualization:
+The video shows the LIDAR point clouds in their original form in CloudCompare, then in Open3D before and after DBSCAN clustering.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q8Vmc37t8z4?rel=0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
-## Python Scripts
+## Python Script
 
 <details>
 <summary>DBSCAN.py (combine and cluster point clouds)</summary>
+
+<div style="max-height: 400px; overflow: auto; border: 1px solid #ccc; padding: 10px;">
 
 ```python
 # -----------------------------------------------------------------------------
@@ -102,6 +103,8 @@ pcd.colors = o3d.utility.Vector3dVector(colors[:, :3])
 o3d.io.write_point_cloud(".\\results\\DBSCAN.pcd", pcd)
 o3d.visualization.draw_geometries([pcd])
 ```
+
+</div>
 </details>
 
 ## Additional Information
