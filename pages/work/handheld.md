@@ -16,9 +16,10 @@ Designed a handheld device to allow sewing operators who cannot use a foot pedal
 
 The joystick controls sewing speed, lifts the presser foot, and triggers the thread-cutting mechanism, functioning like a foot treadle. The joystick is enclosed in a 3D-printed shell, and its position and maximum speed can be adjusted by the operator. This design provides an accessible alternative for operators with limited mobility, enabling them to work efficiently and safely.
 
-<iframe width="560" height="315" 
-src="https://www.youtube.com/embed/412ms-ErHYA?rel=0" 
-title="YouTube video player" frameborder="0" allowfullscreen>
+<iframe width="100%" height="600" 
+        src="https://www.youtube.com/embed/412ms-ErHYA?rel=0" 
+        title="YouTube video player" 
+        frameborder="0" allowfullscreen>
 </iframe>
 
 ---
@@ -27,9 +28,10 @@ title="YouTube video player" frameborder="0" allowfullscreen>
 
 A secondary video demonstrates an alternative interface using a touch screen. This proof-of-concept shows that the same operations can be controlled via touch input, offering flexibility for potential future setups.
 
-<iframe width="560" height="315" 
-src="https://www.youtube.com/embed/gdpZgFyb50k?rel=0" 
-title="YouTube video player" frameborder="0" allowfullscreen>
+<iframe width="100%" height="600" 
+        src="https://www.youtube.com/embed/gdpZgFyb50k?rel=0" 
+        title="YouTube video player" 
+        frameborder="0" allowfullscreen>
 </iframe>
 
 ---
