@@ -28,7 +28,9 @@ The following video shows multiple test runs using the Python script, demonstrat
 
 You can experiment with the Roboflow-trained model directly from your device using this QR code:  
 
-<img src="/assets/projects/cs7367-coin/qr-code.PNG" alt="QR Code" width="200"/>  
+<div align="center">
+  <img src="/assets/projects/cs7367-coin/qr-code.PNG" alt="QR Code" width="200"/>
+<div align="center">
 
 *Note: This live model is a prototype. For best results, use consistent lighting and maintain a moderate camera distance. The full Python script is included in the repository for reproducibility.*
 
