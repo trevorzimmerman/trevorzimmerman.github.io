@@ -12,7 +12,11 @@ I quickly learned to convert SolidWorks assemblies to Solid Edge assemblies and 
 
 The video below showcases the final simulation.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/34jsUu7K5-U?rel=0" title="YouTube video player" frameborder="0" allowfullscreen> </iframe>
+<iframe width="100%" height="600" 
+  src="https://www.youtube.com/embed/34jsUu7K5-U?rel=0" 
+  title="YouTube video player" 
+  frameborder="0" allowfullscreen>
+</iframe>
 
 ## Additional Information
 
