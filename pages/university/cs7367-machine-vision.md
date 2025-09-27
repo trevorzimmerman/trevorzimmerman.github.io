@@ -18,7 +18,7 @@ This project implements a real-time machine vision system to detect and count U.
 
 The following video shows multiple test runs using the Python script, demonstrating real-time detection, labeling, and coin value calculation:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D6WUL7I_PqM?rel=0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J19z-QP_urg?rel=0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Try the Model (Prototype)
 
