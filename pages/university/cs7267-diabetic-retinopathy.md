@@ -23,7 +23,7 @@ This project implements a deep learning algorithm in MATLAB to classify diabetic
 
 ## Report
 
-<iframe src="/assets/projects/cs7267-retinopathy/Final_Report.pdf" 
+<iframe src="/assets/projects/cs7267-retinopathy/Final_Report.pdf#view=FitH&toolbar=1&navpanes=0" 
         width="100%" height="600px">
   Your browser does not support PDFs. 
   <a href="/assets/projects/cs7267-retinopathy/Final_Report.pdf">View PDF</a>.
