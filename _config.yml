@@ -1,0 +1,10 @@
+theme: minima
+title: Trevor Zimmerman
+description: "Robotics and Automation Portfolio" 
+
+header_pages:
+  - pages/work/index.md
+  - pages/university/index.md
+  - pages/personal/index.md
+
+author: ""
